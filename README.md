@@ -25,33 +25,33 @@ Welcome to my GitHub! I'm a third-year student at the University of Economics Ho
 
 ## 📌 Highlighted Projects
 
-### 🚗 [Dijkstra](https://github.com/zynhi/Dijkstra)  
-*Đồ án Lập trình phân tích dữ liệu*  
-Implementation of Dijkstra's algorithm using Python and Jupyter Notebook to find the shortest path in a graph.
-
----
-
-### ⭐ [A-Star-algorithm](https://github.com/zynhi/A-Star-algorithm)  
-*Đồ án Lập trình phân tích dữ liệu*  
-A classic implementation of the A* (A-Star) pathfinding algorithm for optimal route selection.
+### 📈 [BI-project](https://github.com/zynhi/BI-project)  
+*Final project for Business Intelligence at UEH*  
+Developed an end-to-end BI analysis workflow using Python, from data cleaning to dashboard creation, focusing on insights for business decision-making.
 
 ---
 
 ### 📊 [Data-Visualization](https://github.com/zynhi/Data-Visualization)  
-*Đồ án cuối kỳ Trực quan hóa dữ liệu*  
-Creating insightful data visualizations with Python (Matplotlib, Seaborn) to communicate complex data clearly.
+*Final project for Data Visualization*  
+Created insightful plots using libraries such as Matplotlib and Seaborn to explore trends and present analytical findings.
 
 ---
 
-### 📈 [BI-project](https://github.com/zynhi/BI-project)  
-*Đồ án cuối kỳ Business Intelligence tại UEH*  
-Building interactive BI dashboards to support business decisions using Jupyter Notebook and data modeling techniques.
+### 🗃️ [Database](https://github.com/zynhi/Database)  
+*Final project for Database Systems at UEH*  
+Designed and queried a relational database using T-SQL to support an academic data system with multiple entities and relationships.
 
 ---
 
-### 🤖 [Machine-Learning](https://github.com/zynhi/Machine-Learning)  
-*Đồ án cuối kỳ Máy học UEH*  
-Applying supervised learning algorithms and evaluating models for prediction tasks.
+### 🧭 [Dijkstra](https://github.com/zynhi/Dijkstra)  
+*Project for Data Analysis Programming Course*  
+Implemented Dijkstra’s algorithm using Python to find the shortest path in weighted graphs with a user-friendly interface via Jupyter Notebook.
+
+---
+
+### 🧠 [Machine-Learning](https://github.com/zynhi/Machine-Learning)  
+*Final project for Machine Learning Course at UEH*  
+Applied supervised learning algorithms and evaluated models using metrics like accuracy and confusion matrix to build predictive models.
 
 ---
 
