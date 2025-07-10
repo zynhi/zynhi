@@ -26,20 +26,20 @@ Welcome to my GitHub! I'm a third-year student at the University of Economics Ho
 ## 📌 Highlighted Projects
 
 ### 📈 [BI-project](https://github.com/zynhi/BI-project)  
-*Final project for Business Intelligence at UEH*  
-Developed an end-to-end BI analysis workflow using Python, from data cleaning to dashboard creation, focusing on insights for business decision-making.
+*Business Intelligence System for E-commerce*  
+Built an end-to-end BI system using Python and Power BI, applying RFM analysis and K-Means clustering to segment customers, and developing a hybrid product recommendation system. Designed interactive dashboards to monitor sales, product performance, and customer behavior.
 
 ---
 
 ### 📊 [Data-Visualization](https://github.com/zynhi/Data-Visualization)  
-*Final project for Data Visualization*  
-Created insightful plots using libraries such as Matplotlib and Seaborn to explore trends and present analytical findings.
+*Obesity Data Visualization Project*  
+Analyzed factors influencing obesity using Python. Performed data cleaning, statistical testing (ANOVA, Chi-Square), and visualized correlations between lifestyle habits and obesity levels using matplotlib and seaborn.
 
 ---
 
 ### 🗃️ [Database](https://github.com/zynhi/Database)  
-*Final project for Database Systems at UEH*  
-Designed and queried a relational database using T-SQL to support an academic data system with multiple entities and relationships.
+*English Center Management System* 
+Designed and implemented a relational database system to manage students, teachers, classes, and schedules for an English training center. The system supports student registration, teacher assignment, course management, class schedules, and learning results tracking. Integrated business rules using SQL constraints, triggers, and procedures to ensure data integrity.
 
 ---
 
@@ -50,8 +50,8 @@ Implemented Dijkstra’s algorithm using Python to find the shortest path in wei
 ---
 
 ### 🧠 [Machine-Learning](https://github.com/zynhi/Machine-Learning)  
-*Final project for Machine Learning Course at UEH*  
-Applied supervised learning algorithms and evaluated models using metrics like accuracy and confusion matrix to build predictive models.
+*Random Forest for Hotel Booking Cancellation Prediction*  
+Applied the Random Forest algorithm to predict hotel booking cancellations. Conducted data preprocessing, handled missing values and outliers, and evaluated model performance using accuracy, confusion matrix, and Out-of-Bag (OOB) error.
 
 ---
 
